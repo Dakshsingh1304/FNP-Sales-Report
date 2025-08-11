@@ -3,5 +3,7 @@ Interactive Excel dashboard analyzing FNP sales data with monthly trends, gender
 ## Data set Used
 - <a href="https://github.com/Dakshsingh1304/FNP-Sales-Report/blob/main/FNP%20Project.xlsx">Dataset</a>
 ## Dashboard
+<img width="861" height="551" alt="FNP Sales dashboard" src="https://github.com/user-attachments/assets/993e691a-f0cf-4d1e-a106-237078989e73" />
+
 
 
