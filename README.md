@@ -29,7 +29,7 @@ Interactive Excel dashboard analyzing FNP sales data with monthly trends, gender
 
 7. Colors dominate category sales with ₹10,05,545, followed by “Soft Toys” at ₹7,40,831.
 
- 8.The busiest sales hours are around 19:00 and 20:00.
+8. The busiest sales hours are around 19:00 and 20:00.
 
 9. Tuesday is the highest sales-generating day, while Wednesday is the lowest.
 
