@@ -1,5 +1,5 @@
 # FNP-Sales-Report
-Interactive Excel dashboard analyzing Ferns N Petals (FNP) sales data with monthly trends, gender-wise distribution, top cities and products, occasion/category performance, and key business metrics.
+Interactive Excel dashboard analyzing Ferns N Petals (FNP) sales data with monthly trends, gender-wise distribution, top cities and products, occasion/category performance, and key business metrics. FNP is an Indian e-commerce and retail brand best known for selling flowers, cakes, plants, gifts, and personalized items.
 ## Data set Used
 - <a href="https://github.com/Dakshsingh1304/FNP-Sales-Report/blob/main/FNP%20Project.xlsx">Dataset</a>
 ## Dashboard
